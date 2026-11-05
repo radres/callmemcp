@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "callmemcp": {
+      "type": "http",
+      "url": "https://callmemcp.com/mcp"
+    }
+  }
+}

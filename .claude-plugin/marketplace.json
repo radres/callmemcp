@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "callmemcp",
+  "owner": { "name": "Serdar Oztetik", "email": "info@callmemcp.com" },
+  "metadata": { "description": "CallMeMCP: your agent calls or texts your phone. Get the app at callmemcp.com." },
+  "plugins": [
+    {
+      "name": "callmemcp",
+      "source": "./plugin",
+      "description": "Your agent calls or texts your phone (iPhone or Android) through the hosted CallMeMCP server. Install the app from callmemcp.com first.",
+      "category": "productivity"
+    }
+  ]
+}
